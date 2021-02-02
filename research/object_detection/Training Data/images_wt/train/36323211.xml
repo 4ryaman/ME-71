@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>test_turbines</folder>
+	<filename>36323211.jpg</filename>
+	<path>C:\Users\dylan\Documents\Senior Design\ME 71\Project Files\test_turbines\36323211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wind turbine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>139</ymin>
+			<xmax>85</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wind turbine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>93</ymin>
+			<xmax>194</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wind turbine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>175</ymin>
+			<xmax>365</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
